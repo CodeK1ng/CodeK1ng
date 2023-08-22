@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/malama_zambia?logo=twitter&style=for-the-badge" alt="malama_zambia" /></a> </p>
 
-- 🔭 I’m currently working on [CubiLock](https://lipila.io/)
+- 🔭 I’m currently working on [Lipila](https://lipila.io/)
 
 - 🌱 I’m currently learning **Kotlin**
 
