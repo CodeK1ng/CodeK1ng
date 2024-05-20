@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A passionate mobile developer from Zambia</h3>
+<h3 align="center">A passionate software engineer from Zambia</h3>
 
 <p align="center"> <a href="https://twitter.com/zubair340" target="blank"><img src="https://img.shields.io/twitter/follow/malama_zambia?logo=twitter&style=for-the-badge" alt="malama_zambia" /></a> </p>
 
